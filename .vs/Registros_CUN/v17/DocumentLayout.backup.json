@@ -1,22 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\",
+  "WorkspaceRootPath": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andri\\source\\repos\\registros_cun\\registros_cun\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\conexion_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\registros_cun\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\check.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\check.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\registrar_material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\registrar_material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\registros_cun\\registrar_material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\registrar_material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\registros_cun\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andri\\source\\repos\\registros_cun\\registros_cun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andri\\source\\repos\\registros_cun\\registros_cun\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\registros_cun\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andri\\source\\repos\\registros_cun\\registros_cun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\registros_cun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|c:\\users\\andrich\\downloads\\practicas-20241024t121254z-001\\practicas\\registros_cun\\registros_cun\\registros_cun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3FDA087-4FDB-4BC9-8FE1-63D0EEC0354E}|Registros_CUN\\Registros_CUN.csproj|solutionrelative:registros_cun\\registros_cun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Check.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.Designer.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Check.Designer.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.Designer.cs",
+              "RelativeToolTip": "Registros_CUN\\Check.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:38:21.435Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Program.cs",
-              "RelativeDocumentMoniker": "Registros_CUN\\Program.cs",
-              "ToolTip": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Program.cs",
-              "RelativeToolTip": "Registros_CUN\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Check.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.cs",
+              "RelativeToolTip": "Registros_CUN\\Check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T04:26:17.379Z",
+              "WhenOpened": "2024-10-29T15:46:28.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Inicio.cs",
-              "RelativeDocumentMoniker": "Registros_CUN\\Inicio.cs",
-              "ToolTip": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Registros_CUN\\Inicio.cs [Dise\u00F1o]",
+              "Title": "Check.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Check.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Check.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registros_CUN\\Check.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T03:50:13.005Z",
+              "WhenOpened": "2024-10-29T15:46:10.773Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Registro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registro.cs",
-              "RelativeDocumentMoniker": "Registros_CUN\\Registro.cs",
-              "ToolTip": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registro.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Registros_CUN\\Registro.cs [Dise\u00F1o]*",
+              "Title": "Conexion_DB.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Conexion_DB.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Conexion_DB.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Conexion_DB.cs*",
+              "RelativeToolTip": "Registros_CUN\\Conexion_DB.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T05:01:14.424Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-29T06:32:01.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Form1.cs",
+              "DocumentIndex": 5,
+              "Title": "Registrar_Material.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registrar_Material.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Registrar_Material.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registrar_Material.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registros_CUN\\Registrar_Material.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:33:16.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrar_Material.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registrar_Material.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Registrar_Material.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registrar_Material.cs",
+              "RelativeToolTip": "Registros_CUN\\Registrar_Material.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAD4v1oAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:12:02.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registro.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Registro.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registro.cs",
+              "RelativeToolTip": "Registros_CUN\\Registro.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:23:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registro.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Registro.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registros_CUN\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:01:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Inicio.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Inicio.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Inicio.cs",
+              "RelativeToolTip": "Registros_CUN\\Inicio.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:21:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Inicio.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Inicio.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registros_CUN\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:51:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Form1.cs",
               "RelativeDocumentMoniker": "Registros_CUN\\Form1.cs",
-              "ToolTip": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Form1.cs",
+              "RelativeToolTip": "Registros_CUN\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:35:41.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Program.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Program.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Program.cs",
+              "RelativeToolTip": "Registros_CUN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:49:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Form1.cs",
+              "RelativeDocumentMoniker": "Registros_CUN\\Form1.cs",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Registros_CUN\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T01:47:40.001Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-23T01:47:40.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registros_CUN.csproj",
+              "DocumentMoniker": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
+              "RelativeDocumentMoniker": "Registros_CUN\\Registros_CUN.csproj",
+              "ToolTip": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
+              "RelativeToolTip": "Registros_CUN\\Registros_CUN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T05:54:10.293Z"
             }
           ]
         }

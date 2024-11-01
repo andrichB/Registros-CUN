@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj": {}
+    "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj": {
+    "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
+        "projectUniqueName": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
         "projectName": "Registros_CUN",
-        "projectPath": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
-        "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andri\\source\\repos\\Registros_CUN\\Registros_CUN\\obj\\",
+        "projectPath": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\Registros_CUN.csproj",
+        "packagesPath": "C:\\Users\\andrich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andrich\\Downloads\\Practicas-20241024T121254Z-001\\Practicas\\Registros_CUN\\Registros_CUN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andrich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
